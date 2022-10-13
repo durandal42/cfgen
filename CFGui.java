@@ -1,13 +1,6 @@
-import java.util.*;
 import javax.swing.*;
-import javax.swing.event.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.awt.geom.*;
-import java.awt.image.BufferedImage;
-
-import java.io.File;
-import java.io.IOException;
 
 import cfgen.*;
 import cfgui.*;
